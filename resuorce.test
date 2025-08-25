@@ -1,0 +1,18 @@
+npm init
+npm install joi (validate)
+npm install express (depedencies)
+npm install --save-dev @types/express (depedencies dev)
+npm install --save-dev prisma (database)
+npm install winston (untuk logger)
+npm install bcrypt (hassing)
+npm install --save-dev @types/bcrypt
+npm install uuid (unit string)
+npm install --save-dev @types/uuid
+npm install --save-dev jest @types/jest (unit testing)
+npm install --save-dev babel-jest @types/preset-env (library jest)
+ //https://babeljs.io/setup#installation
+
+npm install --save-dev supertest @types/supertest
+
+https://youtu.be/6v8JXecArqE?si=oFYjq4dbxGoCQvgW
+menit 46:16 = Setup Database
