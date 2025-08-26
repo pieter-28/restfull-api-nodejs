@@ -15,4 +15,26 @@ npm install --save-dev babel-jest @types/preset-env (library jest)
 npm install --save-dev supertest @types/supertest
 
 https://youtu.be/6v8JXecArqE?si=oFYjq4dbxGoCQvgW
-menit 46:16 = Setup Database
+menit 1.28:17 = Setup main.js
+
+#setup database with prisma
+npx prisma init
+
+#create migration
+npx prisma migrate dev --create-only
+$create migation name
+
+#run migration
+npx prisma migrate dev
+
+#alur kerja
+1. create prisma dan migration
+2. create application
+3. create validation
+4. create service
+5. create errors
+6. create controller
+7. create route (public router) tanpa auth
+8. create route (api router) dengan auth
+9. create middleware
+10. create main.js
