@@ -15,7 +15,7 @@ npm install --save-dev babel-jest @types/preset-env (library jest)
 npm install --save-dev supertest @types/supertest
 
 https://youtu.be/6v8JXecArqE?si=oFYjq4dbxGoCQvgW
-menit 1.28:17 = Setup main.js
+menit 1.54:36 = Get User API
 
 #setup database with prisma
 npx prisma init
