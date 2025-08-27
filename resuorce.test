@@ -38,3 +38,6 @@ npx prisma migrate dev
 8. create route (api router) dengan auth
 9. create middleware
 10. create main.js
+
+#run project
+node src/main.js
