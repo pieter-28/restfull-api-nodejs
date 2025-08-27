@@ -41,3 +41,8 @@ npx prisma migrate dev
 
 #run project
 node src/main.js
+
+#generate prisma client
+npx prisma generate
+
+#test project with unit test
