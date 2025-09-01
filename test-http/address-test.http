@@ -42,7 +42,7 @@ Authorization: 98aba947-c57e-4128-a4fa-0d73ae721503
   "postal_code": "324234"
 }
 
-### Remove Address
+### Remove Data Address
 
 DELETE http://localhost:3000/api/contacts/235/addresses/29
 Content-Type: application/json
